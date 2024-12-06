@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "FileReading": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
